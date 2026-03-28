@@ -1,7 +1,7 @@
 streamlit
-tensorflow
 numpy
-opencv-python
-pillow
+opencv-python-headless
 pandas
 plotly
+tensorflow
+pillow
