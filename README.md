@@ -33,6 +33,4 @@ This project automates road inspection using AI by:
 - 💾 Prediction logging (CSV)
 - 🌐 Cloud-ready architecture (Azure / IBM Cognos)
 
----
 
-## 🏗️ System Architecture
