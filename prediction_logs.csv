@@ -1,0 +1,3 @@
+timestamp,filename,prediction,confidence,road_health,severity,saved_path
+2026-03-28 21:45:43,waterlogged-hole-on-the-old-road-free-photo.jpg,Crack Detected,73.22,Poor,High Risk,saved_uploads\20260328_214543_waterlogged-hole-on-the-old-road-free-photo.jpg
+2026-03-28 21:46:04,cleanroads.jpg,No Crack,96.45999908447266,Good,Safe Surface,saved_uploads\20260328_214604_cleanroads.jpg
